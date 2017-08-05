@@ -1,5 +1,5 @@
 # docker-nginx-php-mongo
-Docker image based on Alpine linux with nginx, php-fpm and mongo driver
+Docker image based on Alpine linux with nginx, php-fpm and mongo driver.
 
 ## Ports
 This image exposes ports 80 and 443. In order to use XDebug it also exposes
